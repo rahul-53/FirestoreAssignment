@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "418918547767",
+    "project_id": "stempedia-98a0c",
+    "storage_bucket": "stempedia-98a0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418918547767:android:04cb18d23794ece4b59ab2",
+        "android_client_info": {
+          "package_name": "com.rahul.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418918547767-o16564abrepmrlsfhl68dkk9msvqembk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbuf6Bzs3sZUb0t9H8LJjaevCik5sAm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418918547767-o16564abrepmrlsfhl68dkk9msvqembk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
